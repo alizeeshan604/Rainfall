@@ -186,8 +186,8 @@ MonoBehaviour:
     y: 0
     width: 258
     height: 375
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -224,23 +224,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 7c710000
-      m_LastClickedID: 29052
-      m_ExpandedIDs: 88f1ffff54f8ffff36fbffff
+      m_SelectedIDs: 6ebcffff
+      m_LastClickedID: -17298
+      m_ExpandedIDs: dcd0ffff88f1ffff54f8ffff36fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Plane
-        m_OriginalName: Plane
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 29052
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -485,7 +485,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 0
+      displayed: 1
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -551,13 +551,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.0022574898, y: 0.9962057, z: -0.08268451, w: 0.027203774}
+    m_Target: {x: -0.00036854454, y: 0.99065655, z: -0.1363833, w: -0.0026741202}
     speed: 2
-    m_Value: {x: 0.0022574812, y: 0.9962019, z: -0.0826842, w: 0.02720367}
+    m_Value: {x: -0.00036854306, y: 0.99065256, z: -0.13638274, w: -0.0026741093}
   m_Size:
-    m_Target: 7.721783
+    m_Target: 7.071068
     speed: 2
-    m_Value: 7.721783
+    m_Value: 7.071068
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -718,8 +718,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 7c710000
-    m_LastClickedInstanceID: 29052
+    m_SelectedInstanceIDs: 6ebcffff
+    m_LastClickedInstanceID: -17298
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
